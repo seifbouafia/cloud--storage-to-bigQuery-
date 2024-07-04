@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "name": "adress",
+      "type": "STRING"
+    },
+    {
+      "name": "dateAjout",
+      "type": "STRING"
+    },
+    {
+      "name": "email",
+      "type": "STRING"
+    },
+    {
+      "name": "idEmploye",
+      "type": "STRING"
+    },
+    {
+      "name": "nomAgence",
+      "type": "STRING"
+    }
+  ]
+}
